@@ -17,6 +17,7 @@ Junior Computer Engineering Student | Cybersecurity & Linux Enthusiast
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" alt="C" /> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" alt="Python" /> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" /> &nbsp;&nbsp;
