@@ -7,11 +7,9 @@ Junior Computer Engineering Student | Cybersecurity & Linux Enthusiast
 - 🎓 Studying Computer Engineering at Düzce University  
 - 🛡️ Passionate about software logic, cybersecurity, and Linux systems (Arch/Kali)  
 - ✈️ Aviation technology enthusiast  
-- 📫 Reach me at [abdullahalsmadi2024@gmail.com](mailto:abdullahalsmadi2024@gmail.com)  
 
 ## Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahalsmadi)     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahAlsmadi)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahalsmadi)     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahAlsmadi)     [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalsmadi2024@gmail.com)  
 
 ## Languages & Tools  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
