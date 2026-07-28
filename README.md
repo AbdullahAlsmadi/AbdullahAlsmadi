@@ -27,7 +27,7 @@
 <br/>
 
 ```text
-> whoami
+</> whoami
 ```
 Junior Computer Engineering student at Düzce University, focused on
 cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).
@@ -35,7 +35,7 @@ Currently building **Auto-CTI** — a multi-agent threat-intelligence
 pipeline — and **Falcon-A1**, a personal embedded/aerospace systems
 project. Roots across Saudi Arabia, Türkiye, and the UAE.
 ```text
-### > focus
+</> focus
 ```
 - 🛡️ Cybersecurity & automated threat-intelligence pipelines
 - 🐧 Linux systems — Arch Linux & Windows
@@ -45,8 +45,7 @@ project. Roots across Saudi Arabia, Türkiye, and the UAE.
 <br/>
 
 ```text
-<div align="center">
-### > stack
+</> stack
 ```
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,bootstrap,flutter,linux,autocad&theme=dark" alt="stack icons"/>
 
