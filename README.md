@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/dark1.svg" alt="Abdullah Al Smadi" width="100%" />
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/dark.svg" alt="Abdullah Al Smadi" width="100%" />
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
@@ -35,13 +35,34 @@ Currently building **Auto-CTI** — a multi-agent threat-intelligence
 pipeline — and **Falcon-A1**, a personal embedded/aerospace systems
 project. Roots across Saudi Arabia, Türkiye, and the UAE.
 
+<br/>
+
 ```text
 > focus
 ```
-- 🛡️ Cybersecurity & automated threat-intelligence pipelines
-- 🐧 Linux systems — Arch Linux & Windows
-- 🖥️ C++, Python, Flutter
-- ✈️ Aviation technology
+
+<table border="0" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td width="15%" align="center">
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_shield.svg" width="60"/>
+</td>
+<td width="35%">Cybersecurity & automated threat-intelligence pipelines</td>
+<td width="15%" align="center">
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_linux.svg" width="60"/>
+</td>
+<td width="35%">Linux systems — Arch Linux & Windows</td>
+</tr>
+<tr>
+<td width="15%" align="center">
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_code.svg" width="60"/>
+</td>
+<td width="35%">C++, Python, Flutter</td>
+<td width="15%" align="center">
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_plane.svg" width="60"/>
+</td>
+<td width="35%">Aviation technology</td>
+</tr>
+</table>
 
 <br/>
 
