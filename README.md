@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<h1 style="font-size: 48px; margin-bottom: 5px; color: #A78BFA;">whoami</h1>
+<h1 style="font-size: 48px; margin-bottom: 5px; color: #A78BFA;">who I'm</h1>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #8B5CF6, transparent); width: 40%; margin: 10px auto;">
 
