@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="dark.svg" alt="Abdullah Al Smadi" width="100%" />
+<img src="dark1.svg" alt="Abdullah Al Smadi" width="100%" />
 
 <br/>
 
