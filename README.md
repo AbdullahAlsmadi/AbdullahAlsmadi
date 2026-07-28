@@ -2,6 +2,20 @@
 
 <img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/dark1.svg" alt="Abdullah Al Smadi" width="100%" />
 
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/abdullahalsmadi">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/AbdullahAlsmadi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:abdullahalsmadi2024@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </div>
 
 <br/>
@@ -24,22 +38,6 @@ project. Roots across Saudi Arabia, Türkiye, and the UAE.
 <br/>
 
 <div align="center">
-
-### >> connect
-
-<a href="https://www.linkedin.com/in/abdullahalsmadi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/AbdullahAlsmadi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:abdullahalsmadi2024@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
 
 ### >> stack
 
