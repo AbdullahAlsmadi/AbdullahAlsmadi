@@ -44,8 +44,8 @@ project. Roots across Saudi Arabia, Türkiye, and the UAE.
 
 <br/>
 
-<div align="center">
 ```text
+<div align="center">
 ### > stack
 ```
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,bootstrap,flutter,linux,autocad&theme=dark" alt="stack icons"/>
