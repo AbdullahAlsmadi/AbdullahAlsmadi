@@ -29,18 +29,19 @@
 ```text
 > whoami
 ```
+<div align="center">
 Junior Computer Engineering student at Düzce University, focused on
 cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).
 Currently building **Auto-CTI** — a multi-agent threat-intelligence
 pipeline — and **Falcon-A1**, a personal embedded/aerospace systems
 project. Roots across Saudi Arabia, Türkiye, and the UAE.
-
+</div>
 <br/>
 
 ```text
 > focus
 ```
-
+<div align="center">
 <table border="0" cellspacing="0" cellpadding="12" width="100%">
 <tr>
 <td width="15%" align="center">
@@ -63,6 +64,7 @@ project. Roots across Saudi Arabia, Türkiye, and the UAE.
 <td width="35%">Aviation technology</td>
 </tr>
 </table>
+</div>
 
 <br/>
 
