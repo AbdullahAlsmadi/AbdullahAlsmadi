@@ -34,8 +34,9 @@ cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).
 Currently building **Auto-CTI** — a multi-agent threat-intelligence
 pipeline — and **Falcon-A1**, a personal embedded/aerospace systems
 project. Roots across Saudi Arabia, Türkiye, and the UAE.
-
+```text
 ### > focus
+```
 - 🛡️ Cybersecurity & automated threat-intelligence pipelines
 - 🐧 Linux systems — Arch Linux & Windows
 - 🖥️ C++, Python, Flutter
@@ -44,9 +45,9 @@ project. Roots across Saudi Arabia, Türkiye, and the UAE.
 <br/>
 
 <div align="center">
-
+```text
 ### > stack
-
+```
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,bootstrap,flutter,linux,autocad&theme=dark" alt="stack icons"/>
 
 </div>
