@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<h1 style="font-size: 48px; margin-bottom: 5px; color: #A78BFA;">whoami</h1>
+<h1 style="font-size: 48px; margin-bottom: 5px; color: #A78BFA;">WHO I'M</h1>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #8B5CF6, transparent); width: 40%; margin: 10px auto;">
 
@@ -40,7 +40,7 @@
 Junior Computer Engineering student at Düzce University, focused on  
 cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).  
 
-<strong style="color: #A78BFA;">-projects-<br>
+<strong style="color: #A78BFA;">-- PROJECTS --<br>
 
 <strong style="color: #A78BFA;">▸ Falcon-A1</strong> — Fixed wing UAV <br>
 <strong style="color: #A78BFA;">▸ Auto-CTI</strong> — Autonomous Cyber Threat Intelligence Triage & Reporting Network  <br>
@@ -57,7 +57,7 @@ cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).
 
 <div align="center">
 
-<h2 style="font-size: 40px; margin-bottom: 5px; color: #A78BFA;">focus</h2>
+<h2 style="font-size: 40px; margin-bottom: 5px; color: #A78BFA;">FOCUS</h2>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #8B5CF6, transparent); width: 30%; margin: 10px auto;">
 
@@ -98,7 +98,7 @@ cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).
 
 <div align="center">
 
-<h2 style="font-size: 40px; margin-bottom: 5px; color: #A78BFA;">stack</h2>
+<h2 style="font-size: 40px; margin-bottom: 5px; color: #A78BFA;">STACK</h2>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #8B5CF6, transparent); width: 30%; margin: 10px auto;">
 
