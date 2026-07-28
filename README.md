@@ -33,13 +33,16 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #8B5CF6, transparent); width: 40%; margin: 10px auto;">
 
-<p style="font-size: 20px; line-height: 1.9; max-width: 750px; margin: 25px auto; color: #e0e0e0;">
-Junior Computer Engineering student at Düzce University, focused on<br>
-cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).<br><br>
-Currently building <strong style="color: #A78BFA;">Auto-CTI</strong> — a multi-agent threat-intelligence<br>
-pipeline — and <strong style="color: #A78BFA;">Falcon-A1</strong>, a personal embedded/aerospace systems<br>
+</div>
+
+<div align="center">
+
+Junior Computer Engineering student at Düzce University, focused on  
+cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).  
+
+Currently building **Auto-CTI** — a multi-agent threat-intelligence  
+pipeline — and **Falcon-A1**, a personal embedded/aerospace systems  
 project. Roots across Saudi Arabia, Türkiye, and the UAE.
-</p>
 
 </div>
 
@@ -55,26 +58,30 @@ project. Roots across Saudi Arabia, Türkiye, and the UAE.
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #8B5CF6, transparent); width: 30%; margin: 10px auto;">
 
+</div>
+
+<div align="center">
+
 <table border="0" cellspacing="0" cellpadding="12" width="100%" style="max-width: 800px; margin: 20px auto;">
 <tr>
 <td width="15%" align="center">
 <img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_shield.svg" width="60"/>
 </td>
-<td width="35%" style="font-size: 18px; color: #e0e0e0; text-align: left;">Cybersecurity & automated threat-intelligence pipelines</td>
+<td width="35%" style="text-align: left;">Cybersecurity & automated threat-intelligence pipelines</td>
 <td width="15%" align="center">
 <img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_linux.svg" width="60"/>
 </td>
-<td width="35%" style="font-size: 18px; color: #e0e0e0; text-align: left;">Linux systems — Arch Linux & Windows</td>
+<td width="35%" style="text-align: left;">Linux systems — Arch Linux & Windows</td>
 </tr>
 <tr>
 <td width="15%" align="center">
 <img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_code.svg" width="60"/>
 </td>
-<td width="35%" style="font-size: 18px; color: #e0e0e0; text-align: left;">C++, Python, Flutter</td>
+<td width="35%" style="text-align: left;">C++, Python, Flutter</td>
 <td width="15%" align="center">
 <img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_plane.svg" width="60"/>
 </td>
-<td width="35%" style="font-size: 18px; color: #e0e0e0; text-align: left;">Aviation technology</td>
+<td width="35%" style="text-align: left;">Aviation technology</td>
 </tr>
 </table>
 
