@@ -40,7 +40,7 @@
 Junior Computer Engineering student at Düzce University, focused on  
 cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).  
 
-<strong style="color: #A78BFA;">projects: <br>
+<strong style="color: #A78BFA;">-projects-<br>
 
 <strong style="color: #A78BFA;">▸ Falcon-A1</strong> — Fixed wing UAV <br>
 <strong style="color: #A78BFA;">▸ Auto-CTI</strong> — Autonomous Cyber Threat Intelligence Triage & Reporting Network  <br>
