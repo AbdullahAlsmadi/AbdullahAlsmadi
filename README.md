@@ -2,12 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/dark1.svg" alt="Abdullah Al Smadi" width="100%" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/ROLE-CE_Student-A78BFA?style=for-the-badge&labelColor=0A101F" alt="role"/>
-<img src="https://img.shields.io/badge/STATUS-Building_%2B_Learning_%2B_Securing-8B5CF6?style=for-the-badge&labelColor=0A101F" alt="status"/>
-<img src="https://img.shields.io/badge/BASE-Saudi_Arabia_%5C_T%C3%BCrkiye_%5C_UAE-6D28D9?style=for-the-badge&labelColor=0A101F" alt="base"/>
-
 </div>
 
 <br/>
@@ -38,11 +32,11 @@ project. Roots across Saudi Arabia, Türkiye, and the UAE.
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/AbdullahAlsmadi">
-<img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:abdullahalsmadi2024@gmail.com">
-<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0A101F" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
