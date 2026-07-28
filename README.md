@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/dark.svg" alt="Abdullah Al Smadi" width="100%" />
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/dark1.svg" alt="Abdullah Al Smadi" width="100%" />
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
