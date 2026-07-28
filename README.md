@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/dark1.svg" alt="Abdullah Al Smadi" width="100%" />
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/PHOTO/dark1.svg" alt="Abdullah Al Smadi" width="100%" />
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
@@ -68,21 +68,21 @@ cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).
 <table border="0" cellspacing="0" cellpadding="12" width="100%" style="max-width: 800px; margin: 20px auto;">
 <tr>
 <td width="15%" align="center">
-<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_shield.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/PHOTO/focus_shield.svg" width="60"/>
 </td>
 <td width="35%" style="text-align: left;">Cybersecurity & automated threat-intelligence pipelines</td>
 <td width="15%" align="center">
-<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_linux.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/PHOTO/focus_linux.svg" width="60"/>
 </td>
 <td width="35%" style="text-align: left;">Linux systems — Arch Linux & Windows</td>
 </tr>
 <tr>
 <td width="15%" align="center">
-<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_code.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/PHOTO/focus_code.svg" width="60"/>
 </td>
 <td width="35%" style="text-align: left;">C++, Python, Flutter</td>
 <td width="15%" align="center">
-<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/focus_plane.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/PHOTO/focus_plane.svg" width="60"/>
 </td>
 <td width="35%" style="text-align: left;">Aviation technology</td>
 </tr>
@@ -102,7 +102,7 @@ cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #8B5CF6, transparent); width: 30%; margin: 10px auto;">
 
-<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/stack.svg" alt="stack" width="100%" style="max-width: 800px; margin: 20px auto; display: block;"/>
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/PHOTO/stack.svg" alt="stack" width="100%" style="max-width: 800px; margin: 20px auto; display: block;"/>
 
 </div>
 
