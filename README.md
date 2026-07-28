@@ -27,7 +27,7 @@
 <br/>
 
 ```text
-> whoami
+<span style="font-size: 40px; font-family: monospace;">> whoami</span>
 ```
 <div align="center">
 Junior Computer Engineering student at Düzce University, focused on
