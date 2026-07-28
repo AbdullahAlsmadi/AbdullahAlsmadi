@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<h1 style="font-size: 48px; margin-bottom: 5px; color: #A78BFA;">who I'm</h1>
+<h1 style="font-size: 48px; margin-bottom: 5px; color: #A78BFA;">whoami</h1>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #8B5CF6, transparent); width: 40%; margin: 10px auto;">
 
@@ -40,9 +40,15 @@
 Junior Computer Engineering student at Düzce University, focused on  
 cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).  
 
-Currently building **Auto-CTI** — a multi-agent threat-intelligence  
-pipeline — and **Falcon-A1**, a personal embedded/aerospace systems  
-project. Roots across Saudi Arabia, Türkiye, and the UAE.
+<br>
+
+<strong style="color: #A78BFA;">▸ Smart Recycling</strong> — Gamified Campus Carbon Reduction  
+<strong style="color: #A78BFA;">▸ Auto-CTI</strong> — Autonomous Cyber Threat Intelligence Triage & Reporting Network  
+<strong style="color: #A78BFA;">▸ Falcon-A1</strong> — Fixed wing UAV  
+
+<br>
+
+Roots across Saudi Arabia, Türkiye, and the UAE.
 
 </div>
 
