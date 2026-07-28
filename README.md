@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/dark.svg" alt="Abdullah Al Smadi" width="100%" />
+
+
 # Hi 👋, I'm Abdullah Al Smadi
 
 Junior Computer Engineering Student | Cybersecurity & Linux Enthusiast  
