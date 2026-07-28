@@ -42,9 +42,9 @@ cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).
 
 <br>
 
-<strong style="color: #A78BFA;">▸ Falcon-A1</strong> — Fixed wing UAV 
-<strong style="color: #A78BFA;">▸ Auto-CTI</strong> — Autonomous Cyber Threat Intelligence Triage & Reporting Network  
-<strong style="color: #A78BFA;">▸ Smart Recycling</strong> — Gamified Campus Carbon Reduction  
+<strong style="color: #A78BFA;">▸ Falcon-A1</strong> — Fixed wing UAV <br>
+<strong style="color: #A78BFA;">▸ Auto-CTI</strong> — Autonomous Cyber Threat Intelligence Triage & Reporting Network  <br>
+<strong style="color: #A78BFA;">▸ Smart Recycling</strong> — Gamified Campus Carbon Reduction  <br>
 
 
 <br>
