@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
->> whoami <<
+##>> whoami <<
 
 Junior Computer Engineering student at Düzce University, focused on
 cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).
@@ -38,7 +38,7 @@ project. Roots across Saudi Arabia, Türkiye, and the UAE.
 <br/>
 
 <div align="center">
->> focus <<
+##>> focus <<
 
 <table border="0" cellspacing="0" cellpadding="12" width="100%">
 <tr>
@@ -68,7 +68,7 @@ project. Roots across Saudi Arabia, Türkiye, and the UAE.
 
 
 <div align="center">
->> stack <<
+##>> stack <<
 
 <img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/stack.svg" alt="stack" width="100%" />
 
