@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/gemini-svg.svg" alt="Abdullah Al Smadi" width="100%" />
+<img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/dark.svg" alt="Abdullah Al Smadi" width="100%" />
 
 <br/>
 
