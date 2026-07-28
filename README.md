@@ -66,12 +66,12 @@ project. Roots across Saudi Arabia, Türkiye, and the UAE.
 
 <br/>
 
-<div align="center">
+
 
 ```text
 > stack
 ```
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/AbdullahAlsmadi/AbdullahAlsmadi/main/stack.svg" alt="stack" width="100%" />
 
 </div>
