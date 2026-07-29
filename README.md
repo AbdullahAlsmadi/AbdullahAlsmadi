@@ -38,7 +38,7 @@
 <div align="center">
 
 Junior Computer Engineering student at Düzce University, focused on  
-cybersecurity and Linux systems.
+cybersecurity and Linux systems.<br>
 I use Arch btw ;)
 
 <strong style="color: #A78BFA;">-- PROJECTS --<br>
