@@ -38,7 +38,7 @@
 <div align="center">
 
 Junior Computer Engineering student at Düzce University, focused on  
-cybersecurity and Linux systems (Arch/Kali, dual-boot with Windows).  
+cybersecurity and Linux systems.  
 
 <strong style="color: #A78BFA;">-- PROJECTS --<br>
 
